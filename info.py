@@ -1,0 +1,1 @@
+{'$': 400.13, 'LYFT': {'price': 42.83, 'amount': 7, 'predictedPercentageIncrease': 0.63, 'dateBought': datetime.date(2025, 5, 5), 'dateLimitSell': datetime.date(2025, 5, 8)}, 'KEYS': {'price': 100.02, 'amount': 3, 'predictedPercentageIncrease': 0.22, 'dateBought': datetime.date(2025, 5, 6), 'dateLimitSell': datetime.date(2025, 5, 9)}}
