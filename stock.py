@@ -199,7 +199,7 @@ def CheckSellPortfolio():
     return portfolioDict
 
 
-def SendMessage(chatid = '561191777', message = 'Test Message'):
+def SendMessage(chatid = '961191888', message = 'Test Message'):
     ellie.sendMessage(chatid, message)
 
 
